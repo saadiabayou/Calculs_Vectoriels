@@ -9,13 +9,9 @@ L' objectif :
 
 Créer plusieurs scripts Python pour : 
 
-- Initialiser un vecteur à zéro 
-  et saisir la dimension et les coefficients du vecteur en ligne de commande - fichier create_v.py  
+- Initialiser un vecteur à zéro et saisir la dimension et les coefficients du vecteur en ligne de commande - fichier create_v.py  
 
 - Faire une série d’ opérations sur les vecteurs : multiplication , addition - fichier vecteur_1.py
-
-
-
 
 
 
@@ -35,3 +31,6 @@ python3 vecteur_1.py
 Ou sur Windows :
 
 RUN dans un editeur Python ( Spider, IDLE, Pycharm, Jupyter Notebook )
+
+
+Saadia Bayou
