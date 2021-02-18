@@ -30,7 +30,7 @@ python3 vecteur_1.py
 
 Ou sur Windows :
 
-RUN dans un editeur Python ( Spider, IDLE, Pycharm, Jupyter Notebook )
+RUN dans un editeur Python ( Spyder, IDLE, Pycharm, Jupyter Notebook )
 
 
 Saadia Bayou
